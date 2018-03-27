@@ -1,5 +1,5 @@
 *.pyc
 /.vagrant/
-/provisioning/provision.retry
+/provisioning/configuration/provision.retry
 /test/gsutil-stub/gsutil_args.json
 /test/gsutil-stub/content-to-upload/
