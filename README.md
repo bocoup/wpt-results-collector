@@ -1,4 +1,4 @@
-# WPT Results Collector
+# WPT Results Collector [![Build Status](https://travis-ci.org/bocoup/wpt-results-collector.svg?branch=master)](https://travis-ci.org/bocoup/wpt-results-collector)
 
 This project defines the procedure used to provision and deploy systems for
 running the test results collection mechanism for [the WPT Dashboard
